@@ -21,7 +21,6 @@
 
 - **Frameworks:** Node(Express.js)
 - **Databases:** MySQL,
-- **APIs:** RESTful
 - **Authentication/Authorization:** JWT
 
 #### DevOps
